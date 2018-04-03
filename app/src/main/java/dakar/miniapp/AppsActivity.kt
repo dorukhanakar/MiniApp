@@ -11,11 +11,7 @@ import android.support.v7.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_apps.*
 import java.util.*
 
-<<<<<<< HEAD
-@Suppress("DEPRECATION")
-=======
 
->>>>>>> First Commit <3
 class AppsActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -66,7 +62,6 @@ class AppsActivity : AppCompatActivity() {
                     .setTicker("")
                     .setContentTitle("Notification")
                     .setContentText("Merhaba")
-                    .setSmallIcon(R.drawable.notification_icon_background)
                     .setContentIntent(pendingIntent).notification
 
 
