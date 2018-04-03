@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MiniApp</string>
+    <string name="push_notification">Push Notification</string>
+    <string name="app_listesi">App Listesi</string>
+    <string name="back">Geri</string>
+    <string name="welcome">Hoş Geldin !</string>
+    <string name="gotoapp">Uygulamaya Git</string>
+    <string name="playagain">Tekrar Oyna</string>
+    <string name="modern_innova_mini_app">Modern Innova Mini APP</string>
+    <string name="modern_innova_projects">Modern Innova Projects</string>
+    <string name="watch_video">Video İzle</string>
+    <string name="location">Konum</string>
+    <string name="play_xox">XOX Oyna</string>
+</resources>
